@@ -2,4 +2,4 @@ Hello, BesVolk here! This is my first time uploading to GitHub. As the title sug
 
 Before you run it, you need to execute the following command in your terminal:
 
-chmod +x ~/your/own/path/Bestrial.command
+'chmod +x ~/your/own/path/Bestrial.command'

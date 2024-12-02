@@ -2,7 +2,7 @@ Hello, BesVolk here! This is my first time uploading to GitHub. As the title sug
 
 Before you run it, you need to execute the following command in your terminal:
 
-1. Open your terminal and enter the command:
+1. Open your terminal and type this command:
    chmod +x
 
 2. Drag the Bestrial.command file into the terminal, placing it after the command.

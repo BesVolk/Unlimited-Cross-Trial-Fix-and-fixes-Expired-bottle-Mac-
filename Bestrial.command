@@ -17,7 +17,6 @@ while true; do
     echo  # This ensures a new line is added after the user's input
     if [[ "$choice" == "y" || "$choice" == "Y" ]]; then
         echo "Proceeding to reset the trial..."
-        chmod +x Bestrial.sh
         break
     elif [[ "$choice" == "n" || "$choice" == "N" ]]; then
         echo "Trial reset canceled."
